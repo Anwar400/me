@@ -1,7 +1,7 @@
 
 # Anwar Muhammed
 
-A college student with lot of aspirations who is pursuing B.E. in Electronics and Communication from Birla Institute of Technology and Science, (BITS) Hyderabad. 2022 – 2016 Batch . I am looking forward to expand my horizons and gain valuable experience.
+A college student with lot of aspirations who is pursuing B.E. in Electronics and Communication from Birla Institute of Technology and Science, (BITS) Hyderabad. 2022 – 2026 Batch . I am looking forward to expand my horizons and gain valuable experience.
 
 # Programming Knowledge
 •	Python programming
